@@ -1,0 +1,1 @@
+pull resquet é solictição para mesclar (merge) uma feature  brach na brach principal (main).
